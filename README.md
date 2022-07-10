@@ -28,4 +28,4 @@
     + #### WASD 키를 통해 전후좌우로 움직일 수 있으며, E 키를 통해 상호작용을 할 수 있다. 맵 곳곳에 생성되는 자원에 상호작용하여 자원들을 얻을 수 있고, 맵 특정 장소에 존재하는 제작대에서 자원들로 디펜스에 사용할 타워를 제작할 수 있다. 그렇게 제작한 타워를 디펜스 화면의 미니맵을 클릭해 배치할 수 있으며, 배치한 타워로 밀려오는 바이러스를 모두 막아내는 것이 목표이다.
   + ### 시연 영상
     + #### [유튜브 링크](https://youtu.be/ULfeFhjqjbg)
-    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178147577-0ba07b58-8d36-4bb7-b306-3291cb117f06.PNG)](https://youtu.be/ULfeFhjqjbg)
+    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178147966-583d9650-80d0-4ee8-a910-05e3e86c98b8.PNG)](https://youtu.be/ULfeFhjqjbg)
