@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178147543-b337c977-cfa6-4089-8d81-00681b3180d2.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178147934-8fc1d17e-9eb7-451a-a8da-aa13f2003b40.png"></p>
 
 <div align="center">
   <H1>RP-198</H1>
