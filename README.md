@@ -20,7 +20,7 @@
     + #### 상명대학교 게임학과 18학번 김정표 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/>
     + #### 상명대학교 게임학과 18학번 김주헌 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(2D 디펜스)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
     + #### 상명대학교 게임학과 19학번 배예림 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/>
-    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(3D 디펜스)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(3D 서바이벌)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 + ## **게임 상세**
   + ### 스토리
     + #### 먼 미래, 발전된 문명의 인간사회는 사회 문제를 해결하지 못하고 멸망하게 되고, 인간 사회를 대체한 로봇 사회가 공동체를 이루며 살게 된다. 하지만 평화도 잠시, 각 공동체의 이익과 발전을 위해 전쟁을 벌이게 되고, 몸체 공격의 무의미성으로 정신체계 파괴를 위한 ‘바이러스’를 만들게 된다. <br><br>이 바이러스는 로봇의 정신체계에 침투해 정신체계가 파괴될 때까지 해킹과 파괴를 진행하는 바이러스였는데, 전염성이 높아 전쟁을 하던 로봇들 뿐만 아니라 전세계 로봇들 모두가 감염되는 지경에 이른다. 로봇 사회는 무너지고 살아남은 로봇들은 끊임없는 정신 공격에서 힘들게 살아가고 있다. <br><br>우리가 함께할 로봇 RP-198 또한, 이 세계에서 겨우 살아남은 로봇으로 생명을 이어가기 위해 여러 장소를 돌아다니며 수집하고, 수리하고, 해킹 바이러스와 싸우고 있는 로봇이다. 이 로봇이 이 세계에서 생존하도록 도와주도록 하자.
